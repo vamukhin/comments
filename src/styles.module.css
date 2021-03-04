@@ -1,0 +1,21 @@
+.comment {
+    margin: 3px;
+    padding: 3px;
+    border: solid lightgray 1px;
+}
+
+.name {
+    cursor: pointer;
+    display: inline-block;
+    padding: 2px;
+    transition: background-color 0.3s;
+    background-color: white;
+}
+.highlighted {
+    background-color: aqua;
+}
+
+.namesContainer {
+    margin: 10px 5px;
+    border: lightgray 1px solid;
+}
